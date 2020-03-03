@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU2_Mango.  Curso: 2019/20 
 
 Proyecto: 
 
@@ -10,10 +10,9 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Jose Luis Gallego Peña	:octocat:
 
------ 
+-----
 
 En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
@@ -32,24 +31,45 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
+Todas usan un modelo B2C de economia colaborativa en web o app, haciendo de intermediarias para alojamiento, un viaje por el mundo o compartir gastos, en web. La aplicación escogida es **Habitoom** ya que tiene app para móviles, que es más usual que tenga un usuario, tiene un modelo premium interesante para analizar y a diferencia de las otras tiene el problema de centrarse más en el piso que en los inquilinos.
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+**Alfredo Bummer**: Siempre es interesante la perspectiva de una persona torpe con la tecnología al analizar una aplicación. 
+
+![](P1/persona1.png)
+
+**Alexa Slowly**: Una persona muy tímida e independiente puede tener problemas para encontrar compañeros de su gusto en una páginza que no ofrece muchas garantías en esto.
+
+![](P1/persona2.png)
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+
+Algo habitual es que alguien no hábil con la tecnología no se aclare a la hora de usar la página o pase por alto cosas (el plazo de anuncio gratis de Habitoom), y también es habitual el hecho de que haya escepticismo en la convivencia, más aún si la página no proporciona demasiada información sobre esto.
+
+**Alfredo Bummer**:
+
+![](P1/mapa1.png)
+
+**Alexa Slowly**:
+
+![](P1/mapa2.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>>  > SE deben incluir claramente los siguientes elementos
+>>>  >
+>>>  > - Enlace al documento:  (sube a github el xls/pdf) 
+>>>  - Valoración final (numérica): 
+>>>  - Comentario sobre la valoración:  (60-120 caracteres)
+
 
 
 ## Paso 2. UX Design  
@@ -65,9 +85,9 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
+
   
-  
-  
+
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
