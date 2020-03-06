@@ -31,7 +31,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
-Todas usan un modelo B2C de economia colaborativa en web o app, haciendo de intermediarias para alojamiento, un viaje por el mundo o compartir gastos, en web. La aplicación escogida es **Habitoom** ya que tiene app para móviles, que es más usual que tenga un usuario, tiene un modelo premium interesante para analizar y a diferencia de las otras tiene el problema de centrarse más en el piso que en los inquilinos.
+Todas usan un modelo B2C de economia colaborativa en web o app, haciendo de intermediarias para alojamiento, un viaje por el mundo o compartir gastos. La aplicación escogida es **Habitoom** ya que tiene un modelo premium interesante para analizar y a diferencia de las otras tiene el problema de centrarse más en el piso que en los inquilinos.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -70,7 +70,11 @@ Algo habitual es que alguien no hábil con la tecnología no se aclare a la hora
 >>>  - Valoración final (numérica): 
 >>>  - Comentario sobre la valoración:  (60-120 caracteres)
 
+[**Documento: Revisión de Usabilidad**](P1/Usability-review.pdf)
 
+**Valoración final: 67 ** 
+
+El sitio web Habitoom tiene un diseño simple y atractivo a simple vista, parecido a páginas conocidas como milanuncios, pero precisamente su simpleza y falta de herramientas la pueden hacer poco fiable, además de que no parece ser muy usada.
 
 ## Paso 2. UX Design  
 
