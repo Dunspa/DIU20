@@ -31,18 +31,32 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
-Todas usan un modelo B2C de economia colaborativa en web o app, haciendo de intermediarias para alojamiento, un viaje por el mundo o compartir gastos. La aplicación escogida es **Habitoom** ya que tiene un modelo premium interesante para analizar y a diferencia de las otras tiene el problema de centrarse más en el piso que en los inquilinos.
+Todas usan un modelo B2C, haciendo de intermediarias para alojamiento. La opción escogida es **Badi** por ser la más simple e intuitiva, con app de móvil y con mejores mecanismos enfocados a las personas.
+
+|                                              | Habitoom | **Badi** | Couchsurfing | Compartetupiso |
+| -------------------------------------------- | -------- | -------- | ------------ | -------------- |
+| Gratuito                                     | Sí       | Sí       | Sí           | Sí             |
+| Tiene App                                    | No       | Sí       | Sí           | No             |
+| Ayuda interactiva                            | No       | No       | No           | No             |
+| Centrado en las personas                     | No       | Sí       | Sí           | Sí             |
+| Recomendaciones personalizadas               | No       | Sí       | Sí           | No             |
+| Gran base de usuarios                        | No       | Sí       | Sí           | Sí             |
+| Chat con usuarios                            | No       | Sí       | No           | No             |
+| Fácil de usar                                | Sí       | Sí       | Sí           | Sí             |
+| Para buscar piso y/o alquilar el tuyo propio | Sí       | Sí       | Sí           | Sí             |
+| Incluye paises de todo el mundo              | Sí       | Sí       | Sí           | Sí             |
+| Control de pago seguro                       | No       | Sí       | No           | No             |
+
+[Click aquí para leer más sobre el análisis competitivo](P1/README.md)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-**Alfredo Bummer**: Siempre es interesante la perspectiva de una persona torpe con la tecnología al analizar una aplicación. 
+Se han diseñado dos personas: **Alfredo** de 58 años, un hostelero poco hábil con la tecnología, y **Alexa** de 25 años, una estudiante tímida e inteligente. [Click aquí para leer más sobre ellos](P1/README.md)
 
 ![](P1/persona1.png)
-
-**Alexa Slowly**: Una persona muy tímida e independiente puede tener problemas para encontrar compañeros de su gusto en una páginza que no ofrece muchas garantías en esto.
 
 ![](P1/persona2.png)
 
