@@ -48,11 +48,11 @@ Se han diseñado dos personas: **Alfredo** de 58 años y **Alexa** de 25. En sus
 
 **Alfredo García** es un hombre hostelero de 58 años. Representa un tipo de persona bastante común, siendo alguien conocido en su localidad, amigable, querido, familiar y que además lleva su propio negocio. Es una persona con poco tiempo, y a la que le gusta desarrollar sus hobbies en ese poco tiempo, por lo que  es importante tener en cuenta que eso puede llevar a que esta persona pueda deshechar rápido una aplicación. Además, es torpe con la tecnología y se frustra fácilmente, que siempre es interesante a la hora de analizar cualquier aplicación para medir lo intuitiva o agradable al uso que puede ser esta. 
 
-![](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P1/persona1.png)
+![](./persona1.png)
 
 **Alexa Slowly** es una chica tímida e independiente de 25 años, estudiante y con muchas inquietudes intelectuales que quiere desarrollar, siendo un tipo de persona propensa a probar siempre nuevas cosas y, además, ser difícil de contentar debido a que es una persona competitiva y que se fija en los pequeños detalles. Es importante la primera impresión que pueda tener una aplicación en una persona de este tipo. También, al ser una persona tímida, puede tener problemas o ciertas preferencias a la hora de interactuar con otras personas en una aplicación, por lo que será cautelosa en ese sentido.
 
-![](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P1/persona2.png)
+![](./persona2.png)
 
 ## C. User Journey Map
 
@@ -64,11 +64,11 @@ La historia de Alexa refleja el cómo un diseño agradable a primera vista lo es
 
 **Alfredo Bummer**: "Alquilar el piso de sus hijos"
 
-![](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P1/mapa1.png)
+![](./mapa1.png)
 
 **Alexa Slowly**: "Buscar piso lejos con gente respetuosa"
 
-![](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P1/mapa2.png)
+![](./mapa2.png)
 
 ## D. Revisión de Usabilidad
 
