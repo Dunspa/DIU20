@@ -28,7 +28,7 @@ En la siguiente tabla se resume si varias páginas web de economía colaborativa
 | Incluye paises de todo el mundo              | Sí       | Sí       | Sí           | Sí             |
 | Control de pago seguro                       | No       | Sí       | No           | No             |
 
-La opción elegida es **Badi** puesto que es la que he visto más simple y a la vez completa, centrándose a la vez en los alojamientos y en las personas, y en general siguiendo un modelo simple de buscar alojamiento por lugar y según cómo son las personas con las que compartir alojamiento. Otras opciones como Couchsurfing se alejan un poco más del compartir alojamiento y gastos (puesto que la gente ofrece gratis el sitio) y no está tan pensada para largas estancias, por lo que ha sido descartada. Además, varias partes de la página no están traducidas al español, como la ayuda.
+La opción elegida es **Badi** puesto que es la que he visto más simple y a la vez completa, con funciones interesantes para analizar como el chat y centrándose a la vez en los alojamientos y en las personas. Sigue un modelo simple de buscar alojamiento por lugar y según cómo son las personas con las que compartir alojamiento. Otras opciones como Couchsurfing se alejan un poco más del compartir alojamiento y gastos (puesto que la gente ofrece gratis el sitio) y no está tan pensada para largas estancias, por lo que ha sido descartada. Además, varias partes de la página no están traducidas al español, como la ayuda.
 
 A todas ellas les falta la opción de tener ayuda interactiva, pese a ser bastante simples, un usuario poco experimentado puede tener problemas. Todas tienen FAQ pero es bastante pobre y te saca de la propia página por lo que puede resultar poco cómodo. Habitoom por su parte tiene un número de WhatsApp, pero es insuficiente porque no se da más ayuda que esa. Esta además tiene una base de usuarios muy pobre, por lo que ya es fácil descartarla ya que lo principal de estas páginas es tener mucha variedad de ofertas. Por ejemplo, busqué pisos en Granada y no existía ninguno. 
 
@@ -56,7 +56,19 @@ Se han diseñado dos personas: **Alfredo** de 58 años y **Alexa** de 25. En sus
 
 ## C. User Journey Map
 
+Lo más habitual en este tipo de aplicaciones es precisamente desarrollar sus dos actividades principales: buscar alojamiento y ofrecer alojamiento. 
 
+La historia de Alfredo se basa en una persona que no tiene mucho manejo con la tecnología y además no tiene el tiempo para dedicarselo. Es importante que la aplicación sea clara y concisa, con guías paso a paso de lo que hacer para que la persona no abandone la página. Además, trata sobre varias funcionalidades de la página como el chat o el control del pago en el primer mes, que pueden facilitar mucho la estancia en la página y muestran lo positivo que puede ser que todo esté concentrado en un mismo lugar, sin tener que recurrir a otras herramientas externas.
+
+La historia de Alexa refleja el cómo un diseño agradable a primera vista lo es todo, y como pequeños detalles como limitar las opciones de búsqueda pueden hacer perder el tiempo a la persona y que se frustre, además de que también ilustra el cómo es muy necesario que una página de economía colaborativa se centre en las personas y sus características.
+
+**Alfredo Bummer**: "Alquilar el piso de sus hijos"
+
+![](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P1/mapa1.png)
+
+**Alexa Slowly**: "Buscar piso lejos con gente respetuosa"
+
+![](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P1/mapa2.png)
 
 ## D. Revisión de Usabilidad
 

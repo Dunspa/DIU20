@@ -47,14 +47,14 @@ Todas usan un modelo B2C, haciendo de intermediarias para alojamiento. La opció
 | Incluye paises de todo el mundo              | Sí       | Sí       | Sí           | Sí             |
 | Control de pago seguro                       | No       | Sí       | No           | No             |
 
-[Click aquí para leer más sobre el análisis competitivo](P1/README.md)
+[Click aquí para leer más sobre el análisis competitivo](P1/README.md).
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-Se han diseñado dos personas: **Alfredo** de 58 años, un hostelero poco hábil con la tecnología, y **Alexa** de 25 años, una estudiante tímida e inteligente. [Click aquí para leer más sobre ellos](P1/README.md)
+Se han diseñado dos personas: **Alfredo** de 58 años, un hostelero poco hábil con la tecnología, y **Alexa** de 25 años, una estudiante tímida e inteligente. [Click aquí para leer más sobre ellos](P1/README.md).
 
 ![](P1/persona1.png)
 
@@ -65,13 +65,13 @@ Se han diseñado dos personas: **Alfredo** de 58 años, un hostelero poco hábil
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
-Algo habitual es que alguien no hábil con la tecnología no se aclare a la hora de usar la página o pase por alto cosas (el plazo de anuncio gratis de Habitoom), y también es habitual el hecho de que haya escepticismo en la convivencia, más aún si la página no proporciona demasiada información sobre esto.
+Lo más habitual en este tipo de aplicaciones es precisamente desarrollar sus dos actividades principales: buscar alojamiento y ofrecer alojamiento. [Click aquí para leer más sobre la elección de estas experiencias de usuario](P1/README.md).
 
-**Alfredo Bummer**:
+**Alfredo Bummer**: "Alquilar el piso de sus hijos"
 
 ![](P1/mapa1.png)
 
-**Alexa Slowly**:
+**Alexa Slowly**: "Buscar piso lejos con gente respetuosa"
 
 ![](P1/mapa2.png)
 
