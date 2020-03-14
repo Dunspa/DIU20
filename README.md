@@ -37,7 +37,7 @@ Todas usan un modelo B2C, haciendo de intermediarias para alojamiento. La opció
 | -------------------------------------------- | -------- | -------- | ------------ | -------------- |
 | Gratuito                                     | Sí       | Sí       | Sí           | Sí             |
 | Tiene App                                    | No       | Sí       | Sí           | No             |
-| Ayuda interactiva                            | No       | No       | No           | No             |
+| Ayuda interactiva                            | No       | Sí       | No           | No             |
 | Centrado en las personas                     | No       | Sí       | Sí           | Sí             |
 | Recomendaciones personalizadas               | No       | Sí       | Sí           | No             |
 | Gran base de usuarios                        | No       | Sí       | Sí           | Sí             |
@@ -56,24 +56,12 @@ Todas usan un modelo B2C, haciendo de intermediarias para alojamiento. La opció
 
 Se han diseñado dos personas: **Alfredo** de 58 años, un hostelero poco hábil con la tecnología, y **Alexa** de 25 años, una estudiante tímida e inteligente. [Click aquí para leer más sobre ellos](P1/README.md).
 
-![](P1/persona1.png)
-
-![](P1/persona2.png)
-
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 Lo más habitual en este tipo de aplicaciones es precisamente desarrollar sus dos actividades principales: buscar alojamiento y ofrecer alojamiento. [Click aquí para leer más sobre la elección de estas experiencias de usuario](P1/README.md).
-
-**Alfredo Bummer**: "Alquilar el piso de sus hijos"
-
-![](P1/mapa1.png)
-
-**Alexa Slowly**: "Buscar piso lejos con gente respetuosa"
-
-![](P1/mapa2.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -84,11 +72,11 @@ Lo más habitual en este tipo de aplicaciones es precisamente desarrollar sus do
 >>>  - Valoración final (numérica): 
 >>>  - Comentario sobre la valoración:  (60-120 caracteres)
 
-[**Documento: Revisión de Usabilidad**](P1/Usability-review.pdf)
+**Valoración final: 83 ** 
 
-**Valoración final: 67 ** 
+Badi tiene un diseño simple y atractivo, que permite realizar las funciones básicas satisfactoriamente, pero le vendrían bien más funcionalidades de calidad de vida.
 
-El sitio web Habitoom tiene un diseño simple y atractivo a simple vista, parecido a páginas conocidas como milanuncios, pero precisamente su simpleza y falta de herramientas la pueden hacer poco fiable, además de que no parece ser muy usada.
+[Click aquí para leer en detalle la revisión de usabilidad](P1/Usability-review.pdf).
 
 ## Paso 2. UX Design  
 

@@ -18,7 +18,7 @@ En la siguiente tabla se resume si varias páginas web de economía colaborativa
 | -------------------------------------------- | -------- | -------- | ------------ | -------------- |
 | Gratuito                                     | Sí       | Sí       | Sí           | Sí             |
 | Tiene App                                    | No       | Sí       | Sí           | No             |
-| Ayuda interactiva                            | No       | No       | No           | No             |
+| Ayuda interactiva                            | No       | Sí       | No           | No             |
 | Centrado en las personas                     | No       | Sí       | Sí           | Sí             |
 | Recomendaciones personalizadas               | No       | Sí       | Sí           | No             |
 | Gran base de usuarios                        | No       | Sí       | Sí           | Sí             |
@@ -30,7 +30,7 @@ En la siguiente tabla se resume si varias páginas web de economía colaborativa
 
 La opción elegida es **Badi** puesto que es la que he visto más simple y a la vez completa, con funciones interesantes para analizar como el chat y centrándose a la vez en los alojamientos y en las personas. Sigue un modelo simple de buscar alojamiento por lugar y según cómo son las personas con las que compartir alojamiento. Otras opciones como Couchsurfing se alejan un poco más del compartir alojamiento y gastos (puesto que la gente ofrece gratis el sitio) y no está tan pensada para largas estancias, por lo que ha sido descartada. Además, varias partes de la página no están traducidas al español, como la ayuda.
 
-A todas ellas les falta la opción de tener ayuda interactiva, pese a ser bastante simples, un usuario poco experimentado puede tener problemas. Todas tienen FAQ pero es bastante pobre y te saca de la propia página por lo que puede resultar poco cómodo. Habitoom por su parte tiene un número de WhatsApp, pero es insuficiente porque no se da más ayuda que esa. Esta además tiene una base de usuarios muy pobre, por lo que ya es fácil descartarla ya que lo principal de estas páginas es tener mucha variedad de ofertas. Por ejemplo, busqué pisos en Granada y no existía ninguno. 
+A todas ellas menos a Badi les falta la opción de tener ayuda interactiva, pese a ser bastante simples, un usuario poco experimentado puede tener problemas. Todas tienen FAQ pero es bastante pobre y te saca de la propia página por lo que puede resultar poco cómodo. Habitoom por su parte tiene un número de WhatsApp, pero es insuficiente porque no se da más ayuda que esa. Esta además tiene una base de usuarios muy pobre, por lo que ya es fácil descartarla ya que lo principal de estas páginas es tener mucha variedad de ofertas. Por ejemplo, busqué pisos en Granada y no existía ninguno. 
 
 En el resto se pueden encontrar muchos usuarios, además de que son páginas ya muy conocidas de por sí.
 
@@ -72,3 +72,8 @@ La historia de Alexa refleja el cómo un diseño agradable a primera vista lo es
 
 ## D. Revisión de Usabilidad
 
+[**Documento: Revisión de Usabilidad**](./Usability-review.pdf)
+
+El sitio web Badi tiene un diseño simple y atractivo, que permite realizar las funciones básicas satisfactoriamente, por lo que cualquier usuario va a poder realizar sus objetivos sin mucho problema. Es em general una de las mejores opciones para cualquier tipo de usuario, sobre todo el menos experimentado va a poder realizar lo más básico. Sin embargo, le falta refinar varias cosas de calidad de vida ya que es fácil perder el tiempo en la página debido a la poca personalización de las búsquedas y a lo verticalmente largas que son las páginas de anuncios. Por ejemplo un mejor chat, mejores búsquedas, un servicio de ayuda en línea disponible para todos los apartados y no solo la página principal y más funcionalidades que pueden ser muy útiles como compartición de gastos que tienen otras páginas, para en general poder centralizar todo lo que pueda derivar de la compartición de piso en la misma aplicación sin tener que salir a otras externas.
+
+**Valoración final: 83 ** 
