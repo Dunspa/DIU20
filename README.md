@@ -87,12 +87,11 @@ Badi tiene un diseño simple y atractivo, que permite realizar las funciones bá
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
+ ![](./P2/feedbackcapturegrid.png)
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+Resumen de la información obtenida de los usuarios de la práctica 1 y de mi propia experiencia, con el objetivo de abordar el diseño de la nueva aplicación.
 
-  
+[Click aquí para leer en detalle su especificación](P2/README.md).
 
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis

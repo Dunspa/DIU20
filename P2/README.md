@@ -1,6 +1,37 @@
-DIU - Practica2, entregables
+# DIU - Práctica 2
 
-Malla receptora de información 
-Sitemap & Task flow 
-Labelling 
-Wireframe & User flow 
+## A. Feedback Capture Grid
+
+En la malla receptora de información (feedback capture grid) está representada la información obtenida de los usuarios de la práctica 1 y de mi propia experiencia, con el objetivo de abordar el diseño de la nueva aplicación.
+
+Los cuatro apartados son:
+
+- **Interesante/Relevante**, que indica los aspectos positivos que existen actualmente en el sitio analizado.
+- **Críticas constructivas**, que indica los aspectos negativos que existen actualmente en el sitio analizado.
+- **Preguntas a partir de la experiencia**, preguntas tienen las personas ficticias (y que pueden ser o no ser realizables) a partir de lo visto en los mapas de experiencia de usuario de la práctica 1.
+- **Nuevas ideas**, ideas que sirven para mejorar el sitio a partir de la experiencia como desarrollador.
+
+![](./feedbackcapturegrid.png)
+
+La nueva aplicación a desarrollar consiste en una aplicación de economía colaborativa de compartir piso, basada en *Badi*, pero con varias mejoras que mejoren la usabilidad y den más posibilidades a la aplicación.
+
+El objetivo es que la nueva propuesta se centre más en las personas, teniendo la posibilidad de rellenar un perfil de usuario con varias características de la persona, para luego al filtrar las búsquedas, existan más posibilidades y poder buscar por tipo de persona. Además, hacer que la aplicación tenga en los anuncios los perfiles de todos los inquilinos, no sólo del anunciante.
+
+Además, el proyecto tendrá como objetivo añadir nuevos servicios que pueden ser importantes y cuyo objetivo final es que todo lo que el usuario pueda necesitar derivado del objetivo principal de la aplicación (compartir piso) lo haga solamente en la aplicación y no tenga que recurrir a sitios externos. 
+
+Se mejorará la experiencia de usuario añadiendo un servicio de reservas y pago de las habitaciones totalmente gestionado por la aplicación, además de un chat integrado para comunicarse con los inquilinos y/o propietarios del piso mientras el contrato esté vigente.
+
+También consistirá en mejorar las funcionalidades del chat de ayuda, pudiendo hacer que el chat sea una ventana flotante en todo momento mientras se está realizando cualquier función en el sitio.
+
+El proyecto también consistirá en añadir otra función, una que amplie la experiencia social. En función de las características de las personas que se ha describido anteriormente, se ampliarán los servicios añadiendo un foro en el cual compartir experiencias en alojamientos que hayan sido gestionados por la aplicación, para así crear una comunidad de usuarios que compartan sus experiencias y puedan finalmente querer compartir alojamiento.
+
+Se pretende por tanto aumentar el "engagement" y el "retention" (que el usuario use mucho y con frecuencia el sistema, que lo necesite), pero que a la vez el usuario no pierda el tiempo, que visite con frecuencia el sitio pero para hacer justo todo lo que necesita sin perder el tiempo, estando satisfecho con el resultado ("happiness").
+
+##       B. User/Task Matrix
+
+## C. Sitemap
+
+## D. Labelling
+
+## E. Wireframes
+

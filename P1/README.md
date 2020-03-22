@@ -1,6 +1,4 @@
-## DIU - Practica1, entregables
-
-
+## DIU - Práctica 1
 
 
 - Desk research: Análisis Competencia 
