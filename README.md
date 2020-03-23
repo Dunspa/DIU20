@@ -87,9 +87,7 @@ Badi tiene un diseño simple y atractivo, que permite realizar las funciones bá
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
- ![](./P2/feedbackcapturegrid.png)
-
-Resumen de la información obtenida de los usuarios de la práctica 1 y de mi propia experiencia, con el objetivo de abordar el diseño de la nueva aplicación.
+Resumen de la información obtenida de los usuarios de la práctica 1 y de mi propia experiencia, con el objetivo de abordar el diseño de la nueva aplicación. Se proponen nuevas ideas como: un sistema de puntos, funciones de experiencia social, propuestas de alojamiento o alojamiento de forma pasiva.
 
 [Click aquí para leer en detalle su especificación](P2/README.md).
 
