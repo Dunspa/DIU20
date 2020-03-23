@@ -26,6 +26,32 @@ Se pretende por tanto aumentar el "engagement" y el "retention" (que el usuario 
 
 ##       B. User/Task Matrix
 
+Para identificar las tareas de la nueva propuesta de aplicación y su importancia se hará una matriz de tareas y usuarios (User/Task Matrix). En las filas se representan las tareas y en las columnas los grupos de usuarios que se pueden encontrar en la aplicación. En cada caso se representa la frecuencia de uso (Baja - B/Media - M/Alta - A) de esa tarea por parte del usuario. 
+
+Las tareas en negrita son las que se consideran más críticas e importantes en la aplicación. Se tendrá más cuidado a la hora de diseñarlas en la propuesta final.
+
+| Tareas/Usuarios                                  | Usuarios registrados | __Propietarios__ | __Inquilinos__ | Usuarios no registrados |
+| ------------------------------------------------ | -------------------- | ---------------- | -------------- | ----------------------- |
+| **Crearse un perfil**                            |                      |                  |                | L                       |
+| Modificar el perfil                              | L                    | L                | L              |                         |
+| **Buscar/Visitar otros perfiles**                | A                    | A                | A              | L                       |
+| **Crear un anuncio de alojamiento**              | L                    | L                |                |                         |
+| Modificar el anuncio de alojamiento              | M                    | M                |                |                         |
+| **Buscar/Visitar un anuncio de alojamiento**     | A                    | L                | A              | A                       |
+| Valorar un anuncio de alojamiento                | M                    |                  | M              |                         |
+| Valorar a un usuario                             | M                    | M                | M              |                         |
+| Usar/consultar puntos de fidelidad               | M                    | M                | M              |                         |
+| **Publicarse como compañero de alojamiento**     | L                    |                  | L              |                         |
+| Recibir propuestas personalizadas de alojamiento | A                    | A                | A              |                         |
+| **Comentar/Consultar el foro de experiencias**   | A                    | A                | A              |                         |
+| Usar el chat de atención al cliente              | L                    | L                | L              | L                       |
+| Consultar el apartado de FAQ                     | L                    |                  | L              | M                       |
+| Consultar las notificaciones                     | A                    | A                | A              |                         |
+
+Se han definido cuatro tipos de usuarios, que son los más comunes en cualquier página de economía colaborativa de compartir alojamiento: usuarios registrados, usuarios no registrados, propietarios e inquilinos. 
+
+Tanto los propietarios (personas únicamente tienen alojamiento y lo ponen a alquiler) como los inquilinos (personas que únicamente buscan alojamiento y también se proponen como compañeros de alojamiento) son usuarios registrados, y estos representan las dos funciones principales de la aplicación: buscar alojamiento y alquilar alojamiento. Todas las tareas relacionadas con esas dos funciones principales de la aplicación son las que se han indicado como más importantes, ya que son imprescindibles para el funcionamiento normal de la aplicación.
+
 ## C. Sitemap
 
 ## D. Labelling

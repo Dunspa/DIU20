@@ -101,6 +101,9 @@ Resumen de la información obtenida de los usuarios de la práctica 1 y de mi pr
 
 >>> Definir "User Map" y "Task Flow" ... 
 
+La matriz de usuarios y tareas nos ayuda a identificar las tareas de la nueva propuesta de aplicación y la frecuencia con la que grupos de usuarios interaccionan con esas tareas.
+
+[Click aquí para ver la matriz de usuarios y tareas](P2/README.md)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
