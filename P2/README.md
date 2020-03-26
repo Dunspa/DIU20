@@ -30,31 +30,62 @@ Para identificar las tareas de la nueva propuesta de aplicación y su importanci
 
 Las tareas en negrita son las que se consideran más críticas e importantes en la aplicación. Se tendrá más cuidado a la hora de diseñarlas en la propuesta final.
 
-| Tareas/Usuarios                                  | Usuarios registrados | __Propietarios__ | __Inquilinos__ | Usuarios no registrados |
-| ------------------------------------------------ | -------------------- | ---------------- | -------------- | ----------------------- |
-| **Crearse un perfil**                            |                      |                  |                | L                       |
-| Modificar el perfil                              | L                    | L                | L              |                         |
-| **Buscar/Visitar otros perfiles**                | A                    | A                | A              | L                       |
-| **Crear un anuncio de alojamiento**              | L                    | L                |                |                         |
-| Modificar el anuncio de alojamiento              | M                    | M                |                |                         |
-| **Buscar/Visitar un anuncio de alojamiento**     | A                    | L                | A              | A                       |
-| Valorar un anuncio de alojamiento                | M                    |                  | M              |                         |
-| Valorar a un usuario                             | M                    | M                | M              |                         |
-| Usar/consultar puntos de fidelidad               | M                    | M                | M              |                         |
-| **Publicarse como compañero de alojamiento**     | L                    |                  | L              |                         |
-| Recibir propuestas personalizadas de alojamiento | A                    | A                | A              |                         |
-| **Comentar/Consultar el foro de experiencias**   | A                    | A                | A              |                         |
-| Usar el chat de atención al cliente              | L                    | L                | L              | L                       |
-| Consultar el apartado de FAQ                     | L                    |                  | L              | M                       |
-| Consultar las notificaciones                     | A                    | A                | A              |                         |
+| Tareas/Usuarios                                              | Usuarios registrados | Usuarios no registrados | Administrador |
+| ------------------------------------------------------------ | -------------------- | ----------------------- | ------------- |
+| **Crearse un perfil**                                        |                      | L                       |               |
+| Modificar el perfil                                          | L                    |                         |               |
+| **Buscar/Visitar otros perfiles**                            | A                    | L                       |               |
+| **Crear un anuncio de habitación**                           | L                    |                         |               |
+| Modificar el anuncio de habitación                           | M                    |                         |               |
+| **Buscar/Visitar un anuncio de habitación**                  | A                    | A                       |               |
+| Valorar un anuncio de habitación                             | M                    |                         |               |
+| Valorar a un compañero                                       | M                    |                         |               |
+| Usar/consultar puntos de fidelidad                           | M                    |                         |               |
+| **Publicarse como compañero de alojamiento**                 | L                    |                         |               |
+| Recibir propuestas personalizadas de habitaciones y compañeros | A                    |                         |               |
+| **Comentar/Consultar el foro de experiencias**               | A                    |                         |               |
+| Usar el chat de atención al cliente                          | L                    | L                       | A             |
+| Consultar el apartado de FAQ                                 | L                    | M                       |               |
+| Consultar las notificaciones                                 | A                    |                         |               |
+| Moderar el foro                                              |                      |                         | A             |
 
-Se han definido cuatro tipos de usuarios, que son los más comunes en cualquier página de economía colaborativa de compartir alojamiento: usuarios registrados, usuarios no registrados, propietarios e inquilinos. 
+Se han definido tres tipos de usuarios, que son los más comunes en cualquier página: usuarios registrados, usuarios no registrados y administradores.
 
-Tanto los propietarios (personas únicamente tienen alojamiento y lo ponen a alquiler) como los inquilinos (personas que únicamente buscan alojamiento y también se proponen como compañeros de alojamiento) son usuarios registrados, y estos representan las dos funciones principales de la aplicación: buscar alojamiento y alquilar alojamiento. Todas las tareas relacionadas con esas dos funciones principales de la aplicación son las que se han indicado como más importantes, ya que son imprescindibles para el funcionamiento normal de la aplicación.
+Todas las tareas relacionadas con las dos funciones principales de la aplicación, buscar habitación y alquilar habitación, son las que se han indicado como más importantes, ya que son imprescindibles para el funcionamiento normal de la aplicación.
 
-## C. Sitemap
+## C. Information Architecture: Sitemap/Labelling
 
-## D. Labelling
+Mediante las técnicas de arquitectura de la información (Sitemap y Labelling) creamos la organización y estructura de los contenidos de una aplicación, que nos sirve para entender dónde estamos como usuarios y dónde está la información desde donde estamos. 
+
+En el sitemap vemos representada la estructura de la página en un mapa, mientras que en el labelling describimos la función de todas aquellas etiquetas que aparecen en el mapa.
+
+El labelling está adaptado a las normas de escritura de la web, es decir, usa lenguaje simple y claro, fácil de encontrar y fácil de saber a dónde nos lleva, para facilitar a los usuarios que cumplan rápidamente sus objetivos. Las etiquetas accesibles desde la página principal son simples de entender, están a primera vista y realizan las funciones principales de la aplicación.
+
+![](./sitemap.png)
+
+| Etiqueta                    | Descripción                                                  |
+| --------------------------- | ------------------------------------------------------------ |
+| Página principal            | Página principal de la aplicación, accesible al iniciar la aplicación. Contiene el menú inferior, el menú lateral, las opciones de publicar habitación y experiencia en compañia, y recomendaciones personalizadas. |
+| Publicar habitación         | Rellena un formulario con los distintos datos de la aplicación que quieres publicar. |
+| Modificar habitación        | Permite modificar todos los datos de la habitación que has publicado. |
+| Experiencias en compañía    | Rellena un formulario, publicando tu perfil y el tipo de experiencia en compañía que ofreces y/o buscas para que otros usuarios te puedan buscar y contactar. |
+| Buscar                      | Buscar alojamiento o personas que buscan alojamiento, según distintos parámetros, principalmente localización. |
+| Habitación                  | Anuncio de una habitación, con sus fotos, características y enlaces a los perfiles de compañeros y propietarios que forman parte de él. |
+| Perfil Compañero            | Perfil de otro usuario de la web, con su foto, caracterísitcas y contacto. No puede modificarse. |
+| Perfil                      | Tu perfil, con su foto, características y contacto. Puede modificarse. |
+| Modificar perfil            | Permite modificar todos los datos de tu perfil.              |
+| Mensajes                    | Notificaciones y mensajes para cuando alguien contacta contigo o te dan una valoración. |
+| Favoritos                   | Anuncios y perfiles que has marcado como favoritos, para acceder a ellos más fácilmente. |
+| Añadir anuncio a favoritos  | Añade un anuncio a tu lista de favoritos.                    |
+| Añadir usuario a favoritos  | Añade un usuario a tu lista de favoritos.                    |
+| Foro de experiencias        | Foro en el que los distintos usuarios pueden compartir sus experiencias y debatir sobre cualquier tema, para así formar comunidad. |
+| Tema foro                   | Cada uno de los temas de los que está compuesto el foro. Contiene los mensajes de este. |
+| Enviar comentario tema foro | Enviar un comentario a un tema en un foro, que mostrará tu nombre y el mensaje asociado. |
+| Crear tema foro             | Crea un tema en el foro, con un título, mensaje y nombre de tu perfil asociados. |
+| Mis anuncios                | Lista de los anuncios de habitaciones o de experiencia de compañero que has publicado. |
+| Ayuda                       | Sección con un chat de atención al cliente, una lista de preguntas frecuentes (FAQ) y contacto por si tienes algun problema. |
+| Chat ayuda                  | Chat en tiempo real con el servicio de atención al cliente.  |
+| Enviar mensaje chat ayuda   | Enviar al servicio de atención al cliente el mensaje que has escrito. |
 
 ## E. Wireframes
 
