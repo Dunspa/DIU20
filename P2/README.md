@@ -89,3 +89,6 @@ El labelling está adaptado a las normas de escritura de la web, es decir, usa l
 
 ## E. Wireframes
 
+![](w1.jpg)
+
+![](w2.jpg)
