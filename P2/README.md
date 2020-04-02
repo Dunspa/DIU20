@@ -1,6 +1,6 @@
 # DIU - Práctica 2
 
-#### Jose Luis Gallego Peña
+#### Jose Luis Gallego Peña - DIU2.Mango
 
 ## A. Feedback Capture Grid
 
@@ -80,41 +80,56 @@ En el sitemap vemos representada la estructura de la página en un mapa, mientra
 
 El labelling está adaptado a las normas de escritura de la web, es decir, usa lenguaje simple y claro, fácil de encontrar y fácil de saber a dónde nos lleva, para facilitar a los usuarios que cumplan rápidamente sus objetivos. Las etiquetas accesibles desde la página principal son simples de entender, están a primera vista y realizan las funciones principales de la aplicación. Su objetivo principal es unificar la forma en la que se dice algo en el entorno de la aplicación.
 
+Los iconos han sido sacados de la web flaticon.
+
 ![](./sitemap.png)
 
-| Etiqueta                    | Descripción                                                  |
-| --------------------------- | ------------------------------------------------------------ |
-| Página principal            | Página principal de la aplicación, accesible al iniciar la aplicación. Contiene el menú inferior, el menú lateral, las opciones de publicar habitación y experiencia en compañia, y recomendaciones personalizadas. |
-| Publicar habitación         | Rellena un formulario con los distintos datos de la aplicación que quieres publicar. |
-| Modificar habitación        | Permite modificar todos los datos de la habitación que has publicado. |
-| Hacer público el perfil     | El usuario hace público su perfil para que otros usuarios le puedan buscar y contactar. |
-| Buscar                      | Buscar alojamiento o personas que buscan alojamiento, según distintos parámetros, principalmente localización. |
-| Filtrar búsqueda            | El usuario filtra la búsqueda tanto de usuarios como de habitaciones según unos parámetros establecidos. |
-| Habitación                  | Anuncio de una habitación, con sus fotos, características y enlaces a los perfiles de compañeros y propietarios que forman parte de él. |
-| Reservar habitación         | El usuario decide reservar una habitación y esperará a que el propietario le informe. |
-| Perfil usuario              | Perfil de otro usuario de la web, con su foto, caracterísitcas y contacto. No puede modificarse. |
-| Contactar con usuario       | El usuario decide contactar con otro usuario, abriendo un chat de mensajes. |
-| Mi Perfil                   | Tu perfil, con su foto, características y contacto. Puede modificarse. |
-| Modificar perfil            | Permite modificar todos los datos de tu perfil.              |
-| Mis Notificaciones          | Notificaciones del sistema o para cuando alguien interactua de alguna manera (valorando, comentando, etc) alguno de tus anuncios o foros. |
-| Mis Mensajes                | Mensajes del usuario con otros usuarios.                     |
-| Mis Favoritos               | Anuncios y perfiles que has marcado como favoritos, para acceder a ellos más fácilmente. |
-| Añadir anuncio a favoritos  | Añade un anuncio a tu lista de favoritos.                    |
-| Añadir usuario a favoritos  | Añade un usuario a tu lista de favoritos.                    |
-| Foro de experiencias        | Foro en el que los distintos usuarios pueden compartir sus experiencias y debatir sobre cualquier tema, para así formar comunidad. |
-| Tema foro                   | Cada uno de los temas de los que está compuesto el foro. Contiene los mensajes de este. |
-| Enviar comentario tema foro | Enviar un comentario a un tema en un foro, que mostrará tu nombre y el mensaje asociado. |
-| Crear tema foro             | Crea un tema en el foro, con un título, mensaje y nombre de tu perfil asociados. |
-| Mis anuncios                | Lista de los anuncios de habitaciones o de experiencia de compañero que has publicado. |
-| Ayuda                       | Sección con un chat de atención al cliente, una lista de preguntas frecuentes (FAQ) y contacto por si tienes algun problema. |
-| Chat ayuda                  | Chat en tiempo real con el servicio de atención al cliente.  |
-| Enviar mensaje chat ayuda   | Enviar al servicio de atención al cliente el mensaje que has escrito. |
-| Valorar anuncio/usuario     | El usuario da una valoración de entre 0 y 5 estrellas al anuncio o usuario. |
-| Acerca De                   | Información sobre la aplicación y copyright.                 |
-| Ajustes de la aplicación    | Diversos parámetros que el usuario puede configurar en la aplicación: activar/desactivar notificaciones, modo nocturno y cerrar sesión. |
+| Etiqueta                                  | Descripción                                                  | Icono                                                        | Etiqueta (inglés)                 |
+| ----------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
+| Menú lateral                              | Abrir el menú lateral, que contiene apartados específicos del usuario. | ![open-menu](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/open-menu.svg) | Side menu                         |
+| Inicio                                    | Página principal de la aplicación, accesible al iniciar la aplicación. Contiene el menú inferior, el menú lateral, las opciones de publicar habitación y experiencia en compañia, y recomendaciones personalizadas. | ![home](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/home.svg) | Home                              |
+| Publicar habitación                       | Rellena un formulario con los distintos datos de la aplicación que quieres publicar. |                                                              | Publish room                      |
+| Añadir archivos externos                  | Añadir archivos externos (fotos de la habitación) al crear un anuncio | ![plus](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/plus.svg) | Add external files                |
+| Modificar habitación                      | Permite modificar todos los datos de la habitación que has publicado. |                                                              | Modify room                       |
+| Hacer público el perfil                   | El usuario hace público su perfil para que otros usuarios le puedan buscar y contactar. |                                                              | Make public                       |
+| Buscar                                    | Buscar alojamiento o personas que buscan alojamiento, según distintos parámetros, principalmente localización. | ![search](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/search.svg) | Search                            |
+| Buscar localización                       | Busca por localización un anuncio de habitación.             | ![place](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/place.svg) | Search place                      |
+| Buscar usuario                            | Busca por nombre un anuncio de usuario.                      |                                                              |                                   |
+| Filtrar búsqueda                          | El usuario filtra la búsqueda tanto de usuarios como de habitaciones según unos parámetros establecidos. | ![filter](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/filter.svg) | Filter                            |
+| Habitación                                | Anuncio de una habitación, con sus fotos, características y enlaces a los perfiles de compañeros y propietarios que forman parte de él. |                                                              | Room                              |
+| Solicitar reserva                         | El usuario decide reservar una habitación y esperará a que el propietario le informe. |                                                              | Reserve room                      |
+| Perfil usuario                            | Perfil de otro usuario de la web, con su foto, caracterísitcas y contacto. No puede modificarse. |                                                              | User profile                      |
+| Contactar con usuario                     | El usuario decide contactar con otro usuario, abriendo un chat de mensajes. |                                                              | Contact with user                 |
+| Mi Perfil                                 | Tu perfil, con su foto, características y contacto. Puede modificarse. | ![user](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/user.svg) | My Profile                        |
+| Modificar perfil                          | Permite modificar todos los datos de tu perfil.              | ![pen](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/pen.svg) | Modify Profile                    |
+| Mis Notificaciones                        | Notificaciones del sistema o para cuando alguien interactua de alguna manera (valorando, comentando, etc) alguno de tus anuncios o foros. | ![risk](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/risk.svg) | My Notifications                  |
+| Mis Mensajes                              | Mensajes del usuario con otros usuarios.                     | ![email](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/email.svg) | My Messages                       |
+| Mis Favoritos                             | Anuncios y perfiles que has marcado como favoritos, para acceder a ellos más fácilmente. |                                                              | My Favourites                     |
+| Añadir anuncio a favoritos                | Añade un anuncio a tu lista de favoritos.                    | ![heart](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/heart.svg) | Add to favourites                 |
+| Añadir usuario a favoritos                | Añade un usuario a tu lista de favoritos.                    | ![heart](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/heart.svg) | Add to favourites                 |
+| Foro                                      | Foro en el que los distintos usuarios pueden compartir sus experiencias y debatir sobre cualquier tema, para así formar comunidad. | ![group](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/group.svg) | Forum                             |
+| Tema foro                                 | Cada uno de los temas de los que está compuesto el foro. Contiene los mensajes de este. |                                                              | Forum thread                      |
+| Enviar comentario tema foro               | Enviar un comentario a un tema en un foro, que mostrará tu nombre y el mensaje asociado. |                                                              | Send comment to forum thread      |
+| Crear tema foro                           | Crea un tema en el foro, con un título, mensaje y nombre de tu perfil asociados. |                                                              | Create forum thread               |
+| Me gusta/No me gusta tema foro/comentario | El usuario indica si le gusta un tema de un foro y/o un comentario en este. | ![like](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/like.svg) | Like/Dislike forum thread/comment |
+| Compartir                                 | Comparte en cualquier red social o aplicación el tema de un foro | ![share](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/share.svg) | Share                             |
+| Mis anuncios                              | Lista de los anuncios de habitaciones o de experiencia de compañero que has publicado. | ![paper](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/paper.svg) | My ads                            |
+| Ayuda                                     | Sección con un chat de atención al cliente, una lista de preguntas frecuentes (FAQ) y contacto por si tienes algun problema. | ![question](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/question.svg) | Help                              |
+| Contacta con nosotros                     | Chat en tiempo real con el servicio de atención al cliente.  |                                                              | Contact us                        |
+| Enviar mensaje                            | Enviar un mensaje.                                           |                                                              | Send message                      |
+| Valorar anuncio/usuario                   | El usuario da una valoración de entre 0 y 5 estrellas al anuncio o usuario. | ![star](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/star.svg) | Rate ad/user                      |
+| Acerca De                                 | Información sobre la aplicación y copyright.                 |                                                              | About                             |
+| Ajustes de la aplicación                  | Diversos parámetros que el usuario puede configurar en la aplicación: activar/desactivar notificaciones, modo nocturno y cerrar sesión. | ![settings](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/settings.svg) | Settings                          |
+| Abrir FAQ question                        | Abre el menú desplegable de una pregunta del FAQ para ver su respuesta. | ![down-arrow](/home/jlgallego99/Escritorio/Informatica/2o Cuatrimestre/DIU/DIU20/P2/Iconos/down-arrow.svg) | Open FAQ question                 |
 
 ## E. Wireframes
 
-![](w1.jpg)
+Finalmente especificamos cómo se verá la interfaz de la aplicación mediante unos bocetos desarrollados en Adobe XD, en los cuales se adoptan todas las características estudiadas en los apartados anteriores. Estos wireframes se organizan según el mapa del sitio, es decir, cada cuadro del mapa del sitio es una vista de esta interfaz.
 
-![](w2.jpg)
+![](w1.png)
+
+![](w2.png)
+
+![](w3.png)
+
+![](w4.png)
