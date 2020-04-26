@@ -45,12 +45,22 @@ Las tipografías, iconos, espacios, colores, etc pretenden concentrarse en dar u
 
 Además, define una serie de "Componentes Material", que aplican los estilos explicados anteriormente, siendo varios de ellos los más importantes:
 
-- Barras de aplicaciones: si están arriba hacen referencia a la pantalla actual, si están abajo hacen referencia a todo. Dentro de ellas está la información en una lista indexada con texto e imagenes autoexplicativas.![](appbar.png)![](lists.png)
-- Barra superior: muestra el contenido que se puede accionar en el contexto actual. ![](backdrop.png)
+- Barras de aplicaciones: si están arriba hacen referencia a la pantalla actual, si están abajo hacen referencia a todo. Dentro de ellas está la información en una lista indexada con texto e imagenes autoexplicativas.
 
-- Barra inferior de navegación: permite el movimiento en los principales contenidos de la aplicación. ![](bottomnavigation.png)
+![](appbar.png)
+![](lists.png)
 
-- Burbujas: elementos compactos que representan atributos o acciones. ![](chips.png)
+- Barra superior: muestra el contenido que se puede accionar en el contexto actual. 
+
+![](backdrop.png)
+
+- Barra inferior de navegación: permite el movimiento en los principales contenidos de la aplicación.
+
+![](bottomnavigation.png)
+
+- Burbujas: elementos compactos que representan atributos o acciones. 
+
+![](chips.png)
 
 En los bocetos propuestos en la práctica 2 se intentaron seguir lo máximo posible estos principios de diseño mostrados, con los componentes descritos y los iconos buscados siguen el patrón Material. Además para el diseño final se deben seguir las siguientes especificaciones de color y tipografía:
 
@@ -68,3 +78,6 @@ Puedes acceder a la historia en video del UX Case Study en el siguiente enlace d
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
+Gracias al estudio del UX Case Study de MuseMap hemos podido ver otros métodos de recabar información para hacer una interfaz enfocada al usuario, viendo la importancia que tiene el tratar con posibles usuarios reales y el tener en cuenta distintas posibilidades que se han podido quedar en el tintero. 
+
+Un UX Case Study ayuda a comprender fácil y rápidamente el cómo se ha desarrollado una interfaz de usuario, y ver que no viene de la nada, si no que hay una serie de pasos que cada uno escogerá según le sirva para su aplicación y después de un proceso incremental tengamos una interfaz funcional y que se adapte a las necesidades del usuario.
