@@ -3,18 +3,18 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU2_Mango.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: HabiCompa
 
-Descripción: 
+Descripción: HabiCompa es una aplicación móvil de economía colaborativa en la que los usuarios podrán alquilar habitaciones, buscar habitaciones donde convivir con otras personas y en general tener una buena experiencia en compañía.
 
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   Jose Luis Gallego Peña	:octocat:
+ * :bust_in_silhouette:   Jose Luis Gallego Peña	[:octocat:](https://github.com/Dunspa/DIU20)
 
 -----
 
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
+> > En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
@@ -111,9 +111,9 @@ La matriz de usuarios y tareas nos ayuda a identificar las tareas de la nueva pr
 
 >>> Identificar términos para diálogo con usuario  
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+Mediante las técnicas de arquitectura de la información creamos la organización y estructura de los contenidos de una aplicación. Con el sitemap vemos representada la estructura de la página en un mapa, mientras que en el labelling describimos la función de todas aquellas etiquetas del mapa.
+
+[Click aquí para leer más en profundidad sobre este apartado](P2/README.md)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
@@ -121,74 +121,69 @@ Término | Significado
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
+Finalmente especificamos cómo se verá la interfaz de la aplicación mediante unos bocetos desarrollados en Adobe XD, en los cuales se adoptan todas las características estudiadas en los apartados anteriores. 
 
-## Paso 3. Make (Prototyping) 
+[Click aquí para ver los bocetos](P2/README.md)
+
+## Paso 3. Mi equipo UX-Case Study 
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+>>> Analizar lo aprendido de la experiencia MuseApp 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+MuseMap es una aplicación que parte de un concepto muy original que consiste en registrar el nombre de artistas callejeros en un mapa. A partir de ver y analizar esta historia de diseño podremos aprender más sobre nuestra propuesta y justificar el por qué hemos usado las técnicas que hemos usado.
+
+[Click aquí para leer el análisis de MuseMap](P3/README.md)
+
+![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
 
->>> Plantear Landing Page 
+>>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
+>>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
-![Método UX](img/mockup.png)  3.d Mockup
+Uno de los patrones de diseño de interfaces más importante que existen a día de hoy y probablemente el más usado es el Material Design, cuyas especificaciones se pueden encontrar en la web [material.io](https://material.io).
+
+[Click aquí para leer más en profundidad sobre este estilo de diseño](P3/README.md)
+
+![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
-## Paso 4. UX Check (Usability Testing) 
+
+## Paso 4. Evaluación 
 
 
-![Método UX](img/ABtesting.png) 4.a A/B Testing
+![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
 
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
+>>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
 
->>>> Práctica A: 
+>>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Usuarios para evaluar prácticas 
+>>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
-
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> Concluya con un ranking de los casos evaluados 
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.c Usability Report
-----
-
->> Añadir report de usabilidad para práctica B 
-
+>>> Valoración personal 
 
 
 ## Paso 5. Evaluación de Accesibilidad  
@@ -203,11 +198,10 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
-## Conclusión / Valoración de las prácticas
+## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
+>>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos 
 
 
 
