@@ -64,7 +64,7 @@ En los bocetos propuestos en la práctica 2 se intentaron seguir lo máximo posi
 
 ## Historia en Video del UX Case Study
 
-Puedes acceder a la historia en video del UX Case Study en el siguiente enlace: 
+Puedes acceder a la historia en video del UX Case Study en el siguiente enlace de [Youtube](https://www.youtube.com/watch?v=_o0Hp5upIC0)
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 

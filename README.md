@@ -158,7 +158,7 @@ Uno de los patrones de diseño de interfaces más importante que existen a día 
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
-
+Puedes acceder a la historia en video del UX Case Study en el siguiente enlace de [Youtube](https://www.youtube.com/watch?v=_o0Hp5upIC0)
 
 ## Paso 4. Evaluación 
 
