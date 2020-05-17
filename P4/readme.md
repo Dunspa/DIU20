@@ -68,11 +68,11 @@ El equipo DIU3.Learning ha realizado una propuesta de economía colaborativa de 
 
 Elijo a una de mis personas ficticias: Alfredo García.
 
-	Alfredo en el caso 1 querría buscar un viaje para irse con su mujer, y su mujer le cargaría el muerto a él. El buscaría por la página Nomadizers y vería que no se adapta a lo que él busca, ya que solo busca un viaje solo con su mujer, no con otras personas.
+- Alfredo en el caso 1 querría buscar un viaje para irse con su mujer, y su mujer le cargaría el muerto a él. El buscaría por la página Nomadizers y vería que no se adapta a lo que él busca, ya que solo busca un viaje solo con su mujer, no con otras personas.
 	
-	Alfredo en el caso 2 querría poner a alquilar su piso, al igual que en la experiencia propuesta en mi P1, sin embargo el busca algo mas simple y se frustraría por los términos tan genéricos de "experiencias" en los que habla la página de compartetupiso, y se dará cuenta de que no podría ponerlo en alquiler como a él le gustaría, por lo que acabaría frustrado.
+- Alfredo en el caso 2 querría poner a alquilar su piso, al igual que en la experiencia propuesta en mi P1, sin embargo el busca algo mas simple y se frustraría por los términos tan genéricos de "experiencias" en los que habla la página de compartetupiso, y se dará cuenta de que no podría ponerlo en alquiler como a él le gustaría, por lo que acabaría frustrado.
 	
-	Alfredo en el caso 3 querría buscar compañeros para jugar al padel, sin embargo al igual que en el caso del compañero, se encontraría con el problema del idioma, lo difícil de usar la interfaz para él que no tiene mucha experiencia y la incapacidad para cambiar idioma ya que él sólo sabe español. Acabaría enfadando y abandonando la página para no buscar nunca más en internet, y se iría a jugar con sus amigos de siempre, rechazando una nueva experiencia de ocio.
+- Alfredo en el caso 3 querría buscar compañeros para jugar al padel, sin embargo al igual que en el caso del compañero, se encontraría con el problema del idioma, lo difícil de usar la interfaz para él que no tiene mucha experiencia y la incapacidad para cambiar idioma ya que él sólo sabe español. Acabaría enfadando y abandonando la página para no buscar nunca más en internet, y se iría a jugar con sus amigos de siempre, rechazando una nueva experiencia de ocio.
 
 
 ## Conclusiones
