@@ -171,11 +171,19 @@ Puedes acceder a la historia en video del UX Case Study en el siguiente enlace d
 
 >>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
+- DIU1.MGM	[Web](https://github.com/Manu8G/DIU20)
+- DIU2.Mjölnir	[Web](https://github.com/Nintwarr/DIU20)
+- DIU3.Learning	[Web](https://github.com/salva12345678/DIU)
+
+[Click aquí para acceder a las descripciones de cada UX Case Study](P4/readme.md)
+
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+
+Selecciono a una de mis personas ficticias: Alfredo García, y analizo situaciones como si fuesen nuevos journey map para encontrar experiencias conflictivas [aquí](P4/readme.md).
 
 
 ![Método UX](img/Survey.png). 4.c Ranking 
@@ -184,6 +192,12 @@ Puedes acceder a la historia en video del UX Case Study en el siguiente enlace d
 >>> Concluya con un ranking de los casos evaluados 
 
 >>> Valoración personal 
+
+1. DIU3.Learning - 80 puntos
+2. DIU2.Mjolnir - 69 puntos
+3. DIU1.MGM - 36 puntos
+
+Con esta práctica hemos podido analizar otros casos y aprender nuevas cosas para nuestra práctica. [Click aquí para ver el resumen](P4/readme.md)
 
 
 ## Paso 5. Evaluación de Accesibilidad  
